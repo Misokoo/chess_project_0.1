@@ -1,0 +1,19 @@
+#illicite
+c1e3
+#illicite
+f1d3
+d2d3
+#illicite
+c8e6
+#illicite
+f8d6
+d7d6
+c1f4
+c8f5
+c2c3
+c7c6
+d1a4
+d8a5
+/quit
+#on commence par tous les survols illicites en diagonale
+#On fini par les licites
