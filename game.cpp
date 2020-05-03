@@ -2,8 +2,8 @@
 #include <iostream>
 #include <vector>
 #include <string>
-#include "../include/game.h"
-#include "../include/square.h"
+#include "game.h"
+#include "square.h"
 using namespace std;
 
 

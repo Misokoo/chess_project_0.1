@@ -4,7 +4,7 @@
 #include <iostream>
 #include <vector>
 #include <string>
-#include "../include/piece.h"
+#include "piece.h"
 
 using namespace std;
 

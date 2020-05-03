@@ -2,9 +2,9 @@
 #include <iostream>
 #include <vector>
 #include <string>
-#include "../include/chessboard.h"
-#include "../include/piece.h"
-#include "../include/piece_annexe.h"
+#include "chessboard.h"
+#include "piece.h"
+#include "piece_annexe.h"
 #include <tuple>
 #include <cstdlib>
 using namespace std;

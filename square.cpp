@@ -2,7 +2,7 @@
 #include <iostream>
 #include <vector>
 #include <string>
-#include "../include/square.h"
+#include "square.h"
 
 
 

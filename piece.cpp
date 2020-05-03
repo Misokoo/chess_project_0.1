@@ -2,8 +2,8 @@
 #include <iostream>
 #include <vector>
 #include <string>
-#include "../include/piece.h"
-#include "../include/piece_annexe.h"
+#include "piece.h"
+#include "piece_annexe.h"
 #include <cstdlib>
 using namespace std;
 
